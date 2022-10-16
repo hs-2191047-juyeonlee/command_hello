@@ -2,3 +2,5 @@ this is a practice.
 this is a second practice.
 for command line githubstudy
 practice.txt is edited.
+
+Git pull last practice.
